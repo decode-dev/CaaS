@@ -1,4 +1,4 @@
-# CaaS
+# CaaS - Auditing Cloud Consistency
 CaaS - Consistency as a Service.
 
 This is my Major Project in my Bachelors.
